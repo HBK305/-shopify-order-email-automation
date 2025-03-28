@@ -1,0 +1,17 @@
+{
+  "email": "john.doe@example.com",
+  "customer": {
+    "first_name": "John"
+  },
+  "line_items": [
+    {
+      "title": "Blue T-Shirt",
+      "quantity": 2
+    },
+    {
+      "title": "Red Hat",
+      "quantity": 1
+    }
+  ],
+  "total_price": "49.97"
+}
